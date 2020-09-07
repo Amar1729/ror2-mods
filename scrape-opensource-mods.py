@@ -38,7 +38,7 @@ def results():
 
 def main():
 	print("| Name | Thunderstore | Source |")
-	print("--------------------------------")
+	print("|----- | ------------ | -------|")
 	for result in results():
 		o = urlparse(result["latest"]["website_url"])
 		if "git" in o.netloc:
