@@ -11,3 +11,5 @@
 ## open-source mods
 
 Helpful to reference these mods for figuring out how to do things.
+
+[OPENSOURCE.md](./OPENSOURCE.md)
