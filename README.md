@@ -5,6 +5,7 @@
 ## our mods
 
 - https://github.com/pitassi17/TotalItemCount
+- https://github.com/pitassi17/LunarItems
 
 ## Helpful Sources for Mod Writing
 
